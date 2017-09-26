@@ -6,9 +6,9 @@ This is App is powered by PHP
 ### 时间：2017-09-26
 
 PHP实现的文件管理系统
------------
-首先，这是一个非常简单的文件管理系统：它是由PHP实现的。
 ===========
+首先，这是一个非常简单的文件管理系统：它是由PHP实现的。
+-----------
 ### 整个项目就是由四个PHP文件组成，相当简单：
 ![fs_tycao_02](https://github.com/tycao/File_Management_System/blob/master/src/file_system_02.png "fs_tycao_02")
 ### 项目的主页面是这个样子的：
