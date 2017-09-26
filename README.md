@@ -1,6 +1,9 @@
 # File_Management_System
 This is App is powered by PHP
 
+git remote add opencv2 git@github.com:tycao/File_Management_System.git
+------------------------------------------------------------------------
+
 ### 作品：PHP实现的文件管理系统
 ### 作者：tycao
 ### 时间：2017-09-26
