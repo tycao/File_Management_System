@@ -125,7 +125,7 @@ array_shift($files);
 				<?php
 					foreach($files as $v){
 						//若是为文件
-						if(is_file($v)){
+						if(is_file($path.'/'.$v)){
 				?>
 					<tr bgcolor="#FFFFFF">
 						<td><?php echo $v;?></td><td><a href="./rename.php?path=<?php echo $path;?>&oldname=<?php echo $v;?>"> 重命名 </a><a href="./index.php?path=<?php echo $path;?>&delfile=<?php echo $v;?>"> 删除 </a><a href="./edit.php?path=<?php echo $path;?>&editfile=<?php echo $v;?>">修改</a></td>
